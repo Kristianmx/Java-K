@@ -20,7 +20,7 @@ public class EspecialidadController {
                    5). Search...
                    6). Return the Menu Principal.
                                    
-                   Choose na option:
+                   Choose a option:
                    """);
            switch (option) {
                case "1":
